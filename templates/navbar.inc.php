@@ -1,21 +1,21 @@
-<!-- :: NEWS-AREA :: -->
+<!-- :: NEWS-AREA ::
 <div class="news-area d-lg-block" id="news-area">
   <div class="container-fluid">
-    <!-- row -->
+    <!-- row 
     <div class="row align-items-center">
-      <!-- col -->
+      <!-- col 
       <div class="col-lg-6">
-        <!-- news -->
+        <!-- news
         <div class="news new d-flex align-items-center">
-          <!-- badge -->
+          <!-- badge 
           <div class="badge mr--sm-2">NEW</div>
-          <!-- link -->
+          <!-- link 
           <a href="#" class="link">An economical, 25 GB plan with free matching domain.</a>
         </div>
       </div>
-      <!-- col -->
+      <!-- col 
       <div class="col-lg-6 d-lg-block d-none">
-        <!-- links -->
+        <!-- links
         <ul class="links list-unstyled d-flex align-items-center justify-content-end">
           <li class="item mr-1"><a href="#" target="_blank">Documentation</a></li>
           <li class="item mr-1"><a href="#" target="_blank">About us</a></li>
@@ -24,7 +24,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- :: THEME-NAVBAR :: -->
 <nav class="theme-navbar" id="theme-navbar" data-responsive="true">
@@ -43,8 +43,8 @@
       <div class="options d-md-flex d-none align-items-center justify-content-end ml-auto">
         <!-- c-link -->
         <a href="domains.php" class="c-link">
-          <img src="assets/images/icons/www.svg" class="icon mr--sm-2" alt="icon">
-          <span class="text">Register a New Domain</span>
+          <img src="https://inregistrar.com/in-registrar.jpg" class='icon' alt="icon">
+          
         </a>
         <!-- buttons -->
         <div class="buttons d-inline-flex align-items-center ml-2">
@@ -95,7 +95,7 @@
         <!-- item -->
         <a href="tel:0000" class="item">
           <img src="assets/images/icons/phone-receiver-silhouette.png" class="img-fluid mr--sm-2" alt="Phone">
-          <span class="text">(20) 123 456 7890</span>
+          <span class="text">+91 9119 66 76 86</span>
         </a>
       </div>
       <!-- links -->
