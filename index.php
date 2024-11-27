@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
-  <meta name="description" content="HostGate offers reliable and scalable web hosting solutions tailored to meet your business needs. Choose our high-performance hosting services for a seamless online experience.">
-  <meta name="keywords" content="web hosting solutions, reliable hosting, scalable hosting, high-performance hosting, HostGate">
+  <meta name="description" content="Flyhost offers reliable and scalable web hosting solutions tailored to meet your business needs. Choose our high-performance hosting services for a seamless online experience.">
+  <meta name="keywords" content="web hosting solutions, reliable hosting, scalable hosting, high-performance hosting, Flyhost">
   <meta name="language" content="EN">
   <!-- :: Title :: -->
-  <title>Reliable Web Hosting Solutions | HostGate</title>
+  <title>Reliable Web Hosting Solutions | Flyhost</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -275,7 +275,7 @@
             <div class="side-plan">
               <!-- title-1 & title-2 -->
               <h5 class="title-1">Save More</h5>
-              <h4 class="title-2">With HostGate Plans.</h4>
+              <h4 class="title-2">With Flyhost Plans.</h4>
               <!-- para-1 -->
               <p class="para-1 mb-1">An economical, 25 GB plan with free matching domain, free email and 1 free SSL (with terms of 12/mo. or longer).</p>
               <!-- link -->
@@ -358,7 +358,7 @@
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Free SSL Certificate
-                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with HostGate registered domain."></span>
+                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with Flyhost registered domain."></span>
                 </div>
               </div>
             </div>
@@ -437,7 +437,7 @@
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Free SSL Certificate
-                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with HostGate registered domain."></span>
+                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with Flyhost registered domain."></span>
                 </div>
               </div>
             </div>
@@ -516,7 +516,7 @@
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Free SSL Certificate
-                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with HostGate registered domain."></span>
+                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with Flyhost registered domain."></span>
                 </div>
               </div>
             </div>

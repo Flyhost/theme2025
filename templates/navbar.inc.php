@@ -50,7 +50,7 @@
         <div class="buttons d-inline-flex align-items-center ml-2">
           <a href="register.php" class="theme-btn --fill-primary --btn-size-md text-uppercase mr--sm-2">Free Trial</a>
           <a href="login.php" class="theme-btn --outline-primary --btn-size-md text-uppercase mr--sm-2">Login</a>
-          <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon --has-counter" data-count="2">
+          <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon  " >
             <img src="assets/images/icons/shopping-cart.png" class="img-fluid" alt="Cart">
           </a>
         </div>
@@ -130,28 +130,7 @@
             <li><a href="domains.php" class="dm-link">Domains</a></li>
           </ul>
         </div>
-        <!-- link -->
-        <div class="link has-dropdown-menu">
-          <a href="#">Hosting</a>
-          <!-- dropdown-menu -->
-          <ul class="dropdown-menu list-unstyled">
-            <!-- group-title -->
-            <li class="group-title">Websites</li>
-            <!-- dm-link -->
-            <li><a href="ssl.php" class="dm-link st-new" data-st="NEW">Shared hosting</a></li>
-            <li><a href="website-security.php" class="dm-link st-new" data-st="NEW">Cloud hosting</a></li>
-            <!-- group-title -->
-            <li class="group-title">CMS</li>
-            <!-- dm-link -->
-            <li><a href="vps.php" class="dm-link">Wordpress hosting</a></li>
-            <!-- dm-link -->
-            <li><a href="shared.php" class="dm-link">Whmcs hosting</a></li>
-            <!-- dm-link -->
-            <li><a href="dedicated.php" class="dm-link">Magento hosting</a></li>
-            <!-- dm-link -->
-            <li><a href="domains.php" class="dm-link">Domains</a></li>
-          </ul>
-        </div>
+       
         <!-- link -->
         <div class="link">
           <a href="#">Windows VPS Hosting</a>
