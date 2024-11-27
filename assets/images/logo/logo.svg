@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="552px" height="276px" viewBox="0 0 552 276" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M276 138C276 61.7847 337.785 0 414 0C490.215 0 552 61.7847 552 138C552 214.215 490.215 276 414 276C337.785 276 276 214.215 276 138Z" id="path_1" />
+    <path d="M137.34 138C137.34 61.7847 199.124 0 275.34 0C351.555 0 413.34 61.7847 413.34 138C413.34 214.215 351.555 276 275.34 276C199.124 276 137.34 214.215 137.34 138Z" id="path_2" />
+    <path d="M0 138C0 61.7847 61.7847 0 138 0C214.215 0 276 61.7847 276 138C276 214.215 214.215 276 138 276C61.7847 276 0 214.215 0 138Z" id="path_3" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_3" />
+    </clipPath>
+  </defs>
+  <g id="Group-2">
+    <g id="Group">
+      <g id="Oval-Copy-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_1" fill-rule="evenodd" />
+        <g clip-path="url(#clip_1)">
+          <use xlink:href="#path_1" fill="none" stroke="#0E2954" stroke-width="14" />
+        </g>
+      </g>
+      <g id="Oval-Copy">
+        <use stroke="none" fill="#0E2954" xlink:href="#path_2" fill-rule="evenodd" />
+        <g clip-path="url(#clip_2)">
+          <use xlink:href="#path_2" fill="none" stroke="#0E2954" stroke-width="14" />
+        </g>
+      </g>
+      <g id="Oval">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_3" fill-rule="evenodd" />
+        <g clip-path="url(#clip_3)">
+          <use xlink:href="#path_3" fill="none" stroke="#0E2954" stroke-width="14" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
