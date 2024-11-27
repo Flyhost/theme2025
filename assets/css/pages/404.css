@@ -1,0 +1,33 @@
+/* :: SECTION-I :: */
+.se-i {
+  min-height: 100vh;
+}
+
+/* content-image */
+.se-i .content-image {
+  width: 400px;
+  margin-bottom: 45px;
+}
+
+/* title-1 */
+.se-i .title-1 {
+  font-size: 20px;
+}
+
+/* para-1 */
+.se-i .para-1 {
+  color: var(--darkGray);
+}
+
+/* links */
+.se-i .links a {
+  font-size: 14px;
+  font-family: var(--secondary-font);
+  font-weight: 600;
+  color: var(--darkGray);
+  padding: 10px 15px;
+}
+.se-i .links a:hover {
+  color: var(--darkBlue);
+  text-decoration: underline;
+}
