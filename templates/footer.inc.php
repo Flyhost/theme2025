@@ -23,7 +23,7 @@
             <!-- box-text -->
             <div class="box-text">
               <!-- box-title -->
-              <h4 class="box-title">HostGate Sales Help</h4>
+              <h4 class="box-title">Flyhost Sales Help</h4>
               <!-- box-para -->
               <p class="box-para">24/7/365 Through the Chat Widget</p>
             </div>
@@ -75,7 +75,7 @@
     <div class="list-group">
       <!-- footer-list -->
       <ul class="footer-list list-unstyled">
-        <li class="list-title">About HostGate</li>
+        <li class="list-title">About Flyhost</li>
         <li class="list-link"><a href="#">About Us</a></li>
         <li class="list-link"><a href="#">Newsroom</a></li>
         <li class="list-link"><a href="#">Investor Relations</a></li>
@@ -89,7 +89,7 @@
         <li class="list-title">Help Center</li>
         <li class="list-link"><a href="knowledge-base.php">Help Center</a></li>
         <li class="list-link"><a href="#">Community</a></li>
-        <li class="list-link"><a href="#">HostGate Blog</a></li>
+        <li class="list-link"><a href="#">Flyhost Blog</a></li>
         <li class="list-link"><a href="contact.php">Contact Us</a></li>
         <li class="list-link"><a href="abuse.php">Report Abuse</a></li>
         <li class="list-link"><a href="#">Resources</a></li>
@@ -99,7 +99,7 @@
         <li class="list-title">Resources</li>
         <li class="list-link"><a href="#">Webmail</a></li>
         <li class="list-link"><a href="#">WHOIS</a></li>
-        <li class="list-link"><a href="#">HostGate Mobile App</a></li>
+        <li class="list-link"><a href="#">Flyhost Mobile App</a></li>
         <li class="list-link"><a href="#">ICANN Confirmation</a></li>
         <li class="list-link"><a href="#">Designers &amp; Developers</a></li>
         <li class="list-link"><a href="#">Corporate Domains</a></li>
@@ -110,7 +110,7 @@
         <li class="list-title">Partner Programs</li>
         <li class="list-link"><a href="#">Affiliates</a></li>
         <li class="list-link"><a href="#">Reseller Programs</a></li>
-        <li class="list-link"><a href="#">HostGate Pro</a></li>
+        <li class="list-link"><a href="#">Flyhost Pro</a></li>
       </ul>
       <!-- footer-list -->
       <ul class="footer-list list-unstyled">
@@ -141,7 +141,7 @@
         <!-- logo -->
         <div class="logo mb-lg-0 mb-1 mr-2">
           <a href="#">
-            <img src="assets/images/logo/logo-white.svg" class="img-fluid" alt="HostGate">
+            <img src="assets/images/logo/logo-white.svg" class="img-fluid" alt="Flyhost">
           </a>
         </div>
         <!-- copyright -->
@@ -154,7 +154,7 @@
             <li><a href="#">License Agreements</a></li>
           </ul>
           <!-- para-3 -->
-          <p class="para-3">Copyright © <span id="year"></span>, HostGate Operating Company, LLC. All Rights Reserved. The HostGate word mark is a registered trademark of HostGate Operating Company,</p>
+          <p class="para-3">Copyright © <span id="year"></span>, Flyhost Operating Company, LLC. All Rights Reserved. The Flyhost word mark is a registered trademark of Flyhost Operating Company,</p>
         </div>
         <!-- social-list -->
         <ul class="social-list list-unstyled d-flex align-items-center justify-content-lg-end justify-content-center ml-lg-auto mt-lg-0 mt-2">
