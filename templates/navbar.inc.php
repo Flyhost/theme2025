@@ -48,7 +48,7 @@
         </a>
         <!-- buttons -->
         <div class="buttons d-inline-flex align-items-center ml-2">
-          <a href="register.php" class="theme-btn --fill-primary --btn-size-md text-uppercase mr--sm-2">Free Trial</a>
+          <!--<a href="register.php" class="theme-btn --fill-primary --btn-size-md text-uppercase mr--sm-2">Register</a> -->
           <a href="login.php" class="theme-btn --outline-primary --btn-size-md text-uppercase mr--sm-2">Login</a>
           <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon  " >
             <img src="assets/images/icons/shopping-cart.png" class="img-fluid" alt="Cart">
