@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
-  <meta name="description" content="Protect your website and build trust with HostGate's SSL certificates. Get industry-leading encryption to secure sensitive data and enhance your website's credibility.">
-  <meta name="keywords" content="SSL certificates, secure website, website security, HostGate">
+  <meta name="description" content="Protect your website and build trust with Flyhost's SSL certificates. Get industry-leading encryption to secure sensitive data and enhance your website's credibility.">
+  <meta name="keywords" content="SSL certificates, secure website, website security, Flyhost">
   <meta name="language" content="en">
   <!-- :: Title :: -->
-  <title>Secure Your Website with HostGate SSL Certificates</title>
+  <title>Secure Your Website with Flyhost SSL Certificates</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -41,7 +41,7 @@
             <!-- title -->
             <h1 class="title">Free SSL Certificate<br>included with any plan.</h1>
             <!-- para -->
-            <p class="para">Prevent data theft and other tampering by encrypting as much of your web traffic as possible. All HostGate plans come with free SSL, ultra-fast DNS, a global CDN.</p>
+            <p class="para">Prevent data theft and other tampering by encrypting as much of your web traffic as possible. All Flyhost plans come with free SSL, ultra-fast DNS, a global CDN.</p>
             <!-- box -->
             <div class="box d-inline-flex align-items-center mb-4">
               <!-- users -->
@@ -386,7 +386,7 @@
       <!-- se-title -->
       <div class="se-title">
         <h3 class="sub-title">All plans include</h3>
-        <h2 class="title">Standard features on all HostGate certificates</h2>
+        <h2 class="title">Standard features on all Flyhost certificates</h2>
       </div>
       <!-- row -->
       <div class="row" data-gap-y="40px">
