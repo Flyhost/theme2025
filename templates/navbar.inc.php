@@ -1,21 +1,21 @@
-<!-- :: NEWS-AREA ::
+<!-- :: NEWS-AREA :: -->
 <div class="news-area d-lg-block" id="news-area">
   <div class="container-fluid">
-    <!-- row 
+    <!-- row -->
     <div class="row align-items-center">
-      <!-- col 
+      <!-- col -->
       <div class="col-lg-6">
-        <!-- news
+        <!-- news-->
         <div class="news new d-flex align-items-center">
-          <!-- badge 
+          <!-- badge -->
           <div class="badge mr--sm-2">NEW</div>
-          <!-- link 
+          <!-- link -->
           <a href="#" class="link">An economical, 25 GB plan with free matching domain.</a>
         </div>
       </div>
-      <!-- col 
+      <!-- col -->
       <div class="col-lg-6 d-lg-block d-none">
-        <!-- links
+        <!-- links-->
         <ul class="links list-unstyled d-flex align-items-center justify-content-end">
           <li class="item mr-1"><a href="#" target="_blank">Documentation</a></li>
           <li class="item mr-1"><a href="#" target="_blank">About us</a></li>
@@ -24,7 +24,7 @@
       </div>
     </div>
   </div>
-</div> -->
+</div> 
 
 <!-- :: THEME-NAVBAR :: -->
 <nav class="theme-navbar" id="theme-navbar" data-responsive="true">
@@ -48,7 +48,7 @@
         </a>
         <!-- buttons -->
         <div class="buttons d-inline-flex align-items-center ml-2">
-          <!--<a href="register.php" class="theme-btn --fill-primary --btn-size-md text-uppercase mr--sm-2">Register</a> -->
+         <a href="register.php" class="theme-btn --fill-primary --btn-size-md text-uppercase mr--sm-2">Free trail</a> 
           <a href="login.php" class="theme-btn --outline-primary --btn-size-md text-uppercase mr--sm-2">Login</a>
           <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon  " >
             <img src="assets/images/icons/shopping-cart.png" class="img-fluid" alt="Cart">
