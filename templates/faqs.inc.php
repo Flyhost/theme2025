@@ -12,9 +12,9 @@
           <!-- article -->
           <div class="article">
             <!-- q -->
-            <h3 class="q">What are the different types of web hosting options HostGate offers?</h3>
+            <h3 class="q">What are the different types of web hosting options Flyhost offers?</h3>
             <!-- a -->
-            <p class="a">HostGate offers multiple website hosting options to fit the various needs and budgets of our customers. Shared Hosting, Cloud Hosting, VPS Hosting, and Dedicated Hosting are our standard options, however we also offer specialized hosting for specific website building applications like WordPress and WooCommerce. Each platform is built on reliable, high-performance servers and is supported by our 24/7 expert support teams</p>
+            <p class="a">Flyhost offers multiple website hosting options to fit the various needs and budgets of our customers. Shared Hosting, Cloud Hosting, VPS Hosting, and Dedicated Hosting are our standard options, however we also offer specialized hosting for specific website building applications like WordPress and WooCommerce. Each platform is built on reliable, high-performance servers and is supported by our 24/7 expert support teams</p>
           </div>
           <!-- article -->
           <div class="article">
@@ -28,7 +28,7 @@
             <!-- q -->
             <h3 class="q">What is AutoSSL and how does it work?</h3>
             <!-- a -->
-            <p class="a">HostGate offers multiple website hosting options to fit the various needs and budgets of our customers. Shared Hosting, Cloud Hosting, VPS Hosting, and Dedicated Hosting are our standard options, however we also offer specialized hosting for specific website building applications like WordPress and WooCommerce. Each platform is built on reliable, high-performance servers and is supported by our 24/7 expert support teams</p>
+            <p class="a">Flyhost offers multiple website hosting options to fit the various needs and budgets of our customers. Shared Hosting, Cloud Hosting, VPS Hosting, and Dedicated Hosting are our standard options, however we also offer specialized hosting for specific website building applications like WordPress and WooCommerce. Each platform is built on reliable, high-performance servers and is supported by our 24/7 expert support teams</p>
           </div>
         </div>
         <!-- col -->
@@ -43,7 +43,7 @@
           <!-- article -->
           <div class="article">
             <!-- q -->
-            <h3 class="q">Can I transfer my existing website to HostGate’s shared web hosting?</h3>
+            <h3 class="q">Can I transfer my existing website to Flyhost’s shared web hosting?</h3>
             <!-- a -->
             <p class="a">Web hosting is a service provided by companies (e.g., the web host) that sell or lease space on a server where you store files that enable your website accessibility on the internet. These companies typically require you to own a domain, or can help you purchase a domain.
               <br>
@@ -54,7 +54,7 @@
             <!-- q -->
             <h3 class="q">What is cPanel Hosting and what are its benefits?</h3>
             <!-- a -->
-            <p class="a">HostGate offers multiple website hosting options to fit the various needs and budgets of our customers. Shared Hosting, Cloud Hosting, VPS Hosting, and Dedicated Hosting are our standard options, however we also offer specialized hosting for specific website building applications like WordPress and WooCommerce. Each platform is built on reliable, high-performance servers and is supported by our 24/7 expert support teams</p>
+            <p class="a">Flyhost offers multiple website hosting options to fit the various needs and budgets of our customers. Shared Hosting, Cloud Hosting, VPS Hosting, and Dedicated Hosting are our standard options, however we also offer specialized hosting for specific website building applications like WordPress and WooCommerce. Each platform is built on reliable, high-performance servers and is supported by our 24/7 expert support teams</p>
           </div>
         </div>
       </div>
