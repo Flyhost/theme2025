@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
-  <meta name="description" content="We apologize for the inconvenience. The page you are looking for could not be found. Explore our range of hosting solutions and take your website to the next level with HostGate.">
-  <meta name="keywords" content="404 page, page not found, hosting solutions, HostGate">
+  <meta name="description" content="We apologize for the inconvenience. The page you are looking for could not be found. Explore our range of hosting solutions and take your website to the next level with Flyhost.">
+  <meta name="keywords" content="404 page, page not found, hosting solutions, Flyhost">
   <meta name="language" content="EN">
   <!-- :: Title :: -->
-  <title>Page Not Found - HostGate</title>
+  <title>Page Not Found - Flyhost</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
