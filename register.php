@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
-  <meta name="description" content="Sign up for a HostGate account and unlock a world of reliable web hosting services. Join thousands of satisfied customers and experience top-notch performance and support.">
-  <meta name="keywords" content="create account, sign up, web hosting services, reliable hosting, HostGate">
+  <meta name="description" content="Sign up for a Flyhost account and unlock a world of reliable web hosting services. Join thousands of satisfied customers and experience top-notch performance and support.">
+  <meta name="keywords" content="create account, sign up, web hosting services, reliable hosting, Flyhost">
   <meta name="language" content="en">
   <!-- :: Title :: -->
-  <title>Create an Account - HostGate Web Hosting Services</title>
+  <title>Create an Account - Flyhost Web Hosting Services</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -32,14 +32,14 @@
         <div class="form-container">
           <!-- form-logo -->
           <div class="form-logo">
-            <img src="./assets/images/logo/logo-black.svg" class="img-fluid" alt="HostGate">
+            <img src="./assets/images/logo/logo-black.svg" class="img-fluid" alt="Flyhost">
           </div>
           <!-- form-head -->
           <div class="form-head">
             <!-- form-title -->
             <h2 class="form-title">
               <img src="./assets/images/icons/waving-hand-emoji.png" class="img-fluid" alt="Icon">
-              Welcome in<br>HostGate Website
+              Welcome in<br>Flyhost Website
             </h2>
           </div>
           <!-- login-form -->

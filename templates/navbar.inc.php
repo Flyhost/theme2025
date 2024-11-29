@@ -1,21 +1,21 @@
-<!-- :: NEWS-AREA ::
+<!-- :: NEWS-AREA :: -->
 <div class="news-area d-lg-block" id="news-area">
   <div class="container-fluid">
-    <!-- row 
+    <!-- row -->
     <div class="row align-items-center">
-      <!-- col 
+      <!-- col -->
       <div class="col-lg-6">
-        <!-- news
+        <!-- news-->
         <div class="news new d-flex align-items-center">
-          <!-- badge 
+          <!-- badge -->
           <div class="badge mr--sm-2">NEW</div>
-          <!-- link 
+          <!-- link -->
           <a href="#" class="link">An economical, 25 GB plan with free matching domain.</a>
         </div>
       </div>
-      <!-- col 
+      <!-- col -->
       <div class="col-lg-6 d-lg-block d-none">
-        <!-- links
+        <!-- links-->
         <ul class="links list-unstyled d-flex align-items-center justify-content-end">
           <li class="item mr-1"><a href="#" target="_blank">Documentation</a></li>
           <li class="item mr-1"><a href="#" target="_blank">About us</a></li>
@@ -24,7 +24,7 @@
       </div>
     </div>
   </div>
-</div> -->
+</div> 
 
 <!-- :: THEME-NAVBAR :: -->
 <nav class="theme-navbar" id="theme-navbar" data-responsive="true">
@@ -48,9 +48,9 @@
         </a>
         <!-- buttons -->
         <div class="buttons d-inline-flex align-items-center ml-2">
-          <a href="register.php" class="theme-btn --fill-primary --btn-size-md text-uppercase mr--sm-2">Free Trial</a>
+         <a href="register.php" class="theme-btn --fill-primary --btn-size-md text-uppercase mr--sm-2">Free trail</a> 
           <a href="login.php" class="theme-btn --outline-primary --btn-size-md text-uppercase mr--sm-2">Login</a>
-          <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon --has-counter" data-count="2">
+          <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon  " >
             <img src="assets/images/icons/shopping-cart.png" class="img-fluid" alt="Cart">
           </a>
         </div>
@@ -130,28 +130,7 @@
             <li><a href="domains.php" class="dm-link">Domains</a></li>
           </ul>
         </div>
-        <!-- link -->
-        <div class="link has-dropdown-menu">
-          <a href="#">Hosting</a>
-          <!-- dropdown-menu -->
-          <ul class="dropdown-menu list-unstyled">
-            <!-- group-title -->
-            <li class="group-title">Websites</li>
-            <!-- dm-link -->
-            <li><a href="ssl.php" class="dm-link st-new" data-st="NEW">Shared hosting</a></li>
-            <li><a href="website-security.php" class="dm-link st-new" data-st="NEW">Cloud hosting</a></li>
-            <!-- group-title -->
-            <li class="group-title">CMS</li>
-            <!-- dm-link -->
-            <li><a href="vps.php" class="dm-link">Wordpress hosting</a></li>
-            <!-- dm-link -->
-            <li><a href="shared.php" class="dm-link">Whmcs hosting</a></li>
-            <!-- dm-link -->
-            <li><a href="dedicated.php" class="dm-link">Magento hosting</a></li>
-            <!-- dm-link -->
-            <li><a href="domains.php" class="dm-link">Domains</a></li>
-          </ul>
-        </div>
+       
         <!-- link -->
         <div class="link">
           <a href="#">Windows VPS Hosting</a>

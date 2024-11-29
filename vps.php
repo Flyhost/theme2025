@@ -9,10 +9,10 @@
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
   <meta name="description" content="Explore our flexible and scalable VPS hosting solutions designed to deliver exceptional performance, control, and reliability. Scale your resources as your business grows.">
-  <meta name="keywords" content="VPS hosting, scalable hosting, flexible hosting, performance hosting, HostGate">
+  <meta name="keywords" content="VPS hosting, scalable hosting, flexible hosting, performance hosting, Flyhost">
   <meta name="language" content="en">
   <!-- :: Title :: -->
-  <title>Flexible and Scalable VPS Hosting Solutions | HostGate</title>
+  <title>Flexible and Scalable VPS Hosting Solutions | Flyhost</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -856,7 +856,7 @@
       <!-- se-title -->
       <div class="se-title">
         <h3 class="sub-title">VPS Features</h3>
-        <h2 class="title">8 Reasons to Buy VPS Servers from HostGate</h2>
+        <h2 class="title">8 Reasons to Buy VPS Servers from Flyhost</h2>
       </div>
       <!-- row -->
       <div class="row" data-gap-y="30px">

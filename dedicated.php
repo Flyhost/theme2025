@@ -9,10 +9,10 @@
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
   <meta name="description" content="Discover our robust and customizable dedicated server hosting plans designed to provide unmatched performance, security, and control for your business-critical applications.">
-  <meta name="keywords" content="dedicated servers, dedicated hosting, performance hosting, secure hosting, HostGate">
+  <meta name="keywords" content="dedicated servers, dedicated hosting, performance hosting, secure hosting, Flyhost">
   <meta name="language" content="EN">
   <!-- :: Title :: -->
-  <title>Powerful Dedicated Servers for Enhanced Performance | HostGate</title>
+  <title>Powerful Dedicated Servers for Enhanced Performance | Flyhost</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -40,7 +40,7 @@
             <!-- title -->
             <h1 class="title">Get high-powered<br>Dedicated Server Hosting.</h1>
             <!-- para -->
-            <p class="para">With HostGate Dedicated Hosting, whether you use the Website Builder or traditional WordPress, you get all the features, tools, and guidance you need to build and launch truly impressive WordPress websites.</p>
+            <p class="para">With Flyhost Dedicated Hosting, whether you use the Website Builder or traditional WordPress, you get all the features, tools, and guidance you need to build and launch truly impressive WordPress websites.</p>
             <!-- box -->
             <div class="box d-inline-flex align-items-center mb-4">
               <!-- users -->
@@ -167,9 +167,9 @@
                     <img src="./assets/images/icons/shared/browser.png" class="img-fluid" alt="icon">
                   </div>
                   <!-- item-title -->
-                  <h5 class="item-title">1.5 Million Websites Choose HostGate</h5>
+                  <h5 class="item-title">1.5 Million Websites Choose Flyhost</h5>
                   <!-- item-text -->
-                  <p class="item-text">Join 1.5 million websites that trust HostGate for their hosting needs.</p>
+                  <p class="item-text">Join 1.5 million websites that trust Flyhost for their hosting needs.</p>
                 </div>
               </div>
             </div>
@@ -617,7 +617,7 @@
       <!-- se-title -->
       <div class="se-title">
         <h3 class="sub-title">Dedicated Features</h3>
-        <h2 class="title">8 Reasons to Buy Dedicated Servers from HostGate</h2>
+        <h2 class="title">8 Reasons to Buy Dedicated Servers from Flyhost</h2>
       </div>
       <!-- row -->
       <div class="row" data-gap-y="30px">

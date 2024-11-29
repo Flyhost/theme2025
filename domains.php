@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
-  <meta name="description" content="Find and register your perfect domain name with HostGate. Enjoy secure, reliable, and affordable domain registration services along with advanced DNS management features.">
-  <meta name="keywords" content="domain registration, register domain, secure domain, affordable domain, HostGate">
+  <meta name="description" content="Find and register your perfect domain name with Flyhost. Enjoy secure, reliable, and affordable domain registration services along with advanced DNS management features.">
+  <meta name="keywords" content="domain registration, register domain, secure domain, affordable domain, Flyhost">
   <meta name="language" content="en">
   <!-- :: Title :: -->
-  <title>Register Domain Names with HostGate - Secure and Affordable</title>
+  <title>Register Domain Names with Flyhost - Secure and Affordable</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->

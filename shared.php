@@ -7,11 +7,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
-  <meta name="description" content="HostGate offers affordable shared hosting plans with unbeatable performance, reliability, and support. Start your online journey with our feature-rich shared hosting services.">
-  <meta name="keywords" content="shared hosting plans, affordable hosting, performance hosting, reliable hosting, HostGate">
+  <meta name="description" content="Flyhost offers affordable shared hosting plans with unbeatable performance, reliability, and support. Start your online journey with our feature-rich shared hosting services.">
+  <meta name="keywords" content="shared hosting plans, affordable hosting, performance hosting, reliable hosting, Flyhost">
   <meta name="language" content="en">
   <!-- :: Title :: -->
-  <title>Affordable Shared Hosting Plans | HostGate</title>
+  <title>Affordable Shared Hosting Plans | Flyhost</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -39,11 +39,11 @@
             <!-- title -->
             <h1 class="title">Building your own<br>website just got <b class="pri-color">easier</b>.</h1>
             <!-- para -->
-            <p class="para">With HostGate Shared Hosting, whether you use the Website Builder or traditional WordPress, you get all the features, tools, and guidance you need to build and launch truly impressive WordPress websites.</p>
+            <p class="para">With Flyhost Shared Hosting, whether you use the Website Builder or traditional WordPress, you get all the features, tools, and guidance you need to build and launch truly impressive WordPress websites.</p>
             <!-- links -->
             <div class="links d-flex align-items-center justify-content-center">
               <a href="#" class="theme-btn --fill-primary mr-1">Choose a Plan</a>
-              <a href="#" class="theme-btn --outline-primary">Sign-up Free Trial</a>
+       
             </div>
           </div>
         </div>
@@ -63,12 +63,15 @@
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
-              <h4 class="plan-title">Basic Plan</h4>
+              <h4 class="plan-title">Starter Plan</h4>
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
+              
+            <h6 style=color:#1062fe;> Save 56%</h6>
+          
               <!-- plan-price -->
-              <div class="plan-price">$2.45</div>
-              <div class="plan-price-sub">Normally $9.99 - 12/mo term</div>
+              <div class="plan-price">₹20</div>
+              <div class="plan-price-sub">Normally ₹45 Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -86,14 +89,10 @@
                 </div>
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">50 GB SSD Storage
+                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">2 GB SSD Storage
                   <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
                 </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Custom Themes
-                  <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
-                </div>
+               
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">24/7 Customer Support
@@ -112,19 +111,11 @@
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Drag and Drop Functionality
                 </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">AI-Driven Templates
-                </div>
-              </div>
+              
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Also Includes</h5>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free Domain - 1 year
-                  <span class="float-box" data-text="One free with purchase of a new 12-, 24- or 36-month plan. Plus ICANN fee of 2.84 USD per domain name per year. You must add the domain name into your cart before purchase, and you must select a domain term length equal to or less than the term length of your plan to qualify for the free domain offer. If you purchase a domain name for a term longer than the term of the plan, you will be charged for the additional registration term at the then-current rate. Cannot be used in conjunction with any other offer, sale, discount or promotion. Free domain offer applies only to the initial purchase term. After the initial purchase term, domains purchased through this offer will renew at the then-current renewal price."></span>
                 </div>
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
@@ -134,7 +125,7 @@
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free SSL Certificate
-                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with HostGate registered domain."></span>
+                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with Flyhost registered domain."></span>
                 </div>
               </div>
             </div>
@@ -144,37 +135,36 @@
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
-              <h4 class="plan-title">Advanced Plan</h4>
+              <h4 class="plan-title">Business Plan</h4>
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
+              <h6 style=color:#1062fe;> Save 51%</h6>
               <!-- plan-price -->
-              <div class="plan-price">$5.45</div>
-              <div class="plan-price-sub">Normally $13.99 - 12/mo term</div>
+              <div class="plan-price">₹49</div>
+              <div class="plan-price-sub">Normally ₹99 Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="#" class="theme-btn --fill-primary --has-icon w-100">
-                <img src="assets/images/icons/shopping-cart-add-w.png" class="icon mr--sm-2 img-fluid" alt="Buy Now">
+              <a href="#"   class="theme-btn --fill-primary --has-icon w-100">
+                     <h4>Buy Now &emsp;</h4>
+                <img src="assets/images/icons/shopping-cart-add-w.png" class="icon mr--sm-2 img-fluid"  alt="Buy Now">
+             
               </a>
-              <!-- fea-sec -->
+             <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Top Features</h5>
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Unlimited Websites
+                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">1 Website
                   <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
                 </div>
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Unlimited SSD Storage
+                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">2 GB SSD Storage
                   <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
                 </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Custom Themes
-                  <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
-                </div>
+               
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">24/7 Customer Support
@@ -193,19 +183,11 @@
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Drag and Drop Functionality
                 </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">AI-Driven Templates
-                </div>
-              </div>
+              
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Also Includes</h5>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free Domain - 1 year
-                  <span class="float-box" data-text="One free with purchase of a new 12-, 24- or 36-month plan. Plus ICANN fee of 2.84 USD per domain name per year. You must add the domain name into your cart before purchase, and you must select a domain term length equal to or less than the term length of your plan to qualify for the free domain offer. If you purchase a domain name for a term longer than the term of the plan, you will be charged for the additional registration term at the then-current rate. Cannot be used in conjunction with any other offer, sale, discount or promotion. Free domain offer applies only to the initial purchase term. After the initial purchase term, domains purchased through this offer will renew at the then-current renewal price."></span>
                 </div>
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
@@ -215,22 +197,24 @@
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free SSL Certificate
-                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with HostGate registered domain."></span>
+                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with Flyhost registered domain."></span>
                 </div>
               </div>
             </div>
           </div>
+    
           <!-- col - popular-plan -->
           <div class="col-xl-3 col-md-6 mb-xl-0 mb-2">
             <!-- plan -->
             <div class="plan popular-plan">
               <!-- plan-title -->
-              <h4 class="plan-title">Enterprise Plan</h4>
+              <h4 class="plan-title">Premium Plan</h4>
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
+              <h6 style=color:#1062fe;> Save 56%</h6>
               <!-- plan-price -->
-              <div class="plan-price">$9.45</div>
-              <div class="plan-price-sub">Normally $9.99 - 12/mo term</div>
+              <div class="plan-price">₹67</div>
+              <div class="plan-price-sub">Normally ₹149 </div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -248,14 +232,10 @@
                 </div>
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">50 GB SSD Storage
+                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">2 GB SSD Storage
                   <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
                 </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Custom Themes
-                  <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
-                </div>
+               
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">24/7 Customer Support
@@ -274,19 +254,11 @@
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Drag and Drop Functionality
                 </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">AI-Driven Templates
-                </div>
-              </div>
+              
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Also Includes</h5>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free Domain - 1 year
-                  <span class="float-box" data-text="One free with purchase of a new 12-, 24- or 36-month plan. Plus ICANN fee of 2.84 USD per domain name per year. You must add the domain name into your cart before purchase, and you must select a domain term length equal to or less than the term length of your plan to qualify for the free domain offer. If you purchase a domain name for a term longer than the term of the plan, you will be charged for the additional registration term at the then-current rate. Cannot be used in conjunction with any other offer, sale, discount or promotion. Free domain offer applies only to the initial purchase term. After the initial purchase term, domains purchased through this offer will renew at the then-current renewal price."></span>
                 </div>
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
@@ -296,7 +268,7 @@
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free SSL Certificate
-                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with HostGate registered domain."></span>
+                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with Flyhost registered domain."></span>
                 </div>
               </div>
             </div>
@@ -306,12 +278,13 @@
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
-              <h4 class="plan-title">Premium Plan</h4>
+              <h4 class="plan-title">Enterprises Plan</h4>
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
+              <h6 style=color:#1062fe;> Save 52%</h6>
               <!-- plan-price -->
-              <div class="plan-price">$13.45</div>
-              <div class="plan-price-sub">Normally $17.99 - 12/mo term</div>
+              <div class="plan-price">₹120</div>
+              <div class="plan-price-sub">Normally ₹249 Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -377,7 +350,7 @@
                 <!-- item -->
                 <div class="item" data-gap-x="10px">
                   <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free SSL Certificate
-                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with HostGate registered domain."></span>
+                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with Flyhost registered domain."></span>
                 </div>
               </div>
             </div>
@@ -455,9 +428,9 @@
                     <img src="./assets/images/icons/shared/browser.png" class="img-fluid" alt="icon">
                   </div>
                   <!-- item-title -->
-                  <h5 class="item-title">1.5 Million Websites Choose HostGate</h5>
+                  <h5 class="item-title">1.5 Million Websites Choose Flyhost</h5>
                   <!-- item-text -->
-                  <p class="item-text">Join 1.5 million websites that trust HostGate for their hosting needs.</p>
+                  <p class="item-text">Join 1.5 million websites that trust Flyhost for their hosting needs.</p>
                 </div>
               </div>
             </div>
@@ -487,7 +460,7 @@
               <!-- title -->
               <h3 class="title">Tools To Grow</h3>
               <!-- para -->
-              <p class="para">Whether you start small or migrate an existing website, HostGate provides all the tools you need to build an audience, sell online, or grow your business.</p>
+              <p class="para">Whether you start small or migrate an existing website, Flyhost provides all the tools you need to build an audience, sell online, or grow your business.</p>
             </div>
           </div>
         </div>
@@ -501,7 +474,7 @@
               <!-- title -->
               <h3 class="title">Domain Manager</h3>
               <!-- para -->
-              <p class="para">At HostGate plans our domain manager makes it easy to update, transfer, purchase and manage your domains in one place.</p>
+              <p class="para">At Flyhost plans our domain manager makes it easy to update, transfer, purchase and manage your domains in one place.</p>
             </div>
           </div>
         </div>
@@ -529,7 +502,7 @@
               <!-- title -->
               <h3 class="title">Reliable Performance</h3>
               <!-- para -->
-              <p class="para">All HostGate plans are designed for WordPress excellence. Each plan includes the right mix of technology.</p>
+              <p class="para">All Flyhost plans are designed for WordPress excellence. Each plan includes the right mix of technology.</p>
             </div>
           </div>
         </div>
@@ -557,7 +530,7 @@
               <!-- title -->
               <h3 class="title">24/7 security monitoring & DDoS </h3>
               <!-- para -->
-              <p class="para">At HostGate plans we aim to stay on high alert day and night with security monitoring and distributed denial of service protection.</p>
+              <p class="para">At Flyhost plans we aim to stay on high alert day and night with security monitoring and distributed denial of service protection.</p>
             </div>
           </div>
         </div>
@@ -593,7 +566,7 @@
                   <!-- site-logo -->
                   <img src="./assets/images/logo/logo.svg" class="site-logo img-fluif" alt="DigitalOcean">
                   <!-- table-title-3 -->
-                  <span class="table-title-3">HostGate</span>
+                  <span class="table-title-3">Flyhost</span>
                   <!-- logo-des -->
                   <p class="logo-des">Emphasizes security, compliance, and global scalability.</p>
                   <!-- btn -->
@@ -877,7 +850,7 @@
       <!-- se-title -->
       <div class="se-title">
         <h3 class="sub-title">Shared Features</h3>
-        <h2 class="title">8 Reasons to Buy Shared Servers from HostGate</h2>
+        <h2 class="title">8 Reasons to Buy Shared Servers from Flyhost</h2>
       </div>
       <!-- row -->
       <div class="row" data-gap-y="30px">

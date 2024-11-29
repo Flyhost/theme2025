@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
-  <meta name="description" content="Safeguard your website from cyber threats with HostGate's comprehensive website security solutions. Protect your valuable data, prevent attacks, and ensure a secure online presence.">
-  <meta name="keywords" content="website security, cybersecurity, secure website, comprehensive security, HostGate">
+  <meta name="description" content="Safeguard your website from cyber threats with Flyhost's comprehensive website security solutions. Protect your valuable data, prevent attacks, and ensure a secure online presence.">
+  <meta name="keywords" content="website security, cybersecurity, secure website, comprehensive security, Flyhost">
   <meta name="language" content="en">
   <!-- :: Title :: -->
-  <title>Enhance Website Security with HostGate's Comprehensive Solutions</title>
+  <title>Enhance Website Security with Flyhost's Comprehensive Solutions</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -41,7 +41,7 @@
             <!-- title -->
             <h1 class="title">Get peace of mind<br>and secure your site.</h1>
             <!-- para -->
-            <p class="para">Enhance website protection by encrypting maximum web traffic, thwarting data theft and tampering. HostGate plans include free SSL, high-speed DNS, and a global CDN, ensuring robust website security.</p>
+            <p class="para">Enhance website protection by encrypting maximum web traffic, thwarting data theft and tampering. Flyhost plans include free SSL, high-speed DNS, and a global CDN, ensuring robust website security.</p>
             <!-- box -->
             <div class="box d-inline-flex align-items-center mb-4">
               <!-- users -->

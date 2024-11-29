@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="theme-color" content="#0060fe">
-  <meta name="description" content="Read and understand our terms of service to ensure a smooth and transparent relationship between you and HostGate. Learn about our policies, acceptable use, and more.">
-  <meta name="keywords" content="terms of service, hosting provider, policies, acceptable use, HostGate">
+  <meta name="description" content="Read and understand our terms of service to ensure a smooth and transparent relationship between you and Flyhost. Learn about our policies, acceptable use, and more.">
+  <meta name="keywords" content="terms of service, hosting provider, policies, acceptable use, Flyhost">
   <meta name="language" content="en">
   <!-- :: Title :: -->
-  <title>Terms of Service - HostGate Web Hosting Provider</title>
+  <title>Terms of Service - Flyhost Web Hosting Provider</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -67,7 +67,7 @@
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="terms.php#HostGate-content-section" class="menu-link">4. HostGate Content</a>
+                <a href="terms.php#Flyhost-content-section" class="menu-link">4. Flyhost Content</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -87,7 +87,7 @@
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">9. Account Security and HostGate Systems</a>
+                <a href="#" class="menu-link">9. Account Security and Flyhost Systems</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -247,11 +247,11 @@
             <ul class="menu list-unstyled">
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">About HostGate Copilot telemetry</a>
+                <a href="#" class="menu-link">About Flyhost Copilot telemetry</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">HostGate Copilot telemetry terms</a>
+                <a href="#" class="menu-link">Flyhost Copilot telemetry terms</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -266,11 +266,11 @@
             <ul class="menu list-unstyled">
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">About HostGate Copilot telemetry</a>
+                <a href="#" class="menu-link">About Flyhost Copilot telemetry</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">HostGate Copilot telemetry terms</a>
+                <a href="#" class="menu-link">Flyhost Copilot telemetry terms</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -285,11 +285,11 @@
             <ul class="menu list-unstyled">
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">About HostGate Copilot telemetry</a>
+                <a href="#" class="menu-link">About Flyhost Copilot telemetry</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">HostGate Copilot telemetry terms</a>
+                <a href="#" class="menu-link">Flyhost Copilot telemetry terms</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -304,11 +304,11 @@
             <ul class="menu list-unstyled">
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">About HostGate Copilot telemetry</a>
+                <a href="#" class="menu-link">About Flyhost Copilot telemetry</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">HostGate Copilot telemetry terms</a>
+                <a href="#" class="menu-link">Flyhost Copilot telemetry terms</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -323,11 +323,11 @@
             <ul class="menu list-unstyled">
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">About HostGate Copilot telemetry</a>
+                <a href="#" class="menu-link">About Flyhost Copilot telemetry</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">HostGate Copilot telemetry terms</a>
+                <a href="#" class="menu-link">Flyhost Copilot telemetry terms</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -342,11 +342,11 @@
             <ul class="menu list-unstyled">
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">About HostGate Copilot telemetry</a>
+                <a href="#" class="menu-link">About Flyhost Copilot telemetry</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">HostGate Copilot telemetry terms</a>
+                <a href="#" class="menu-link">Flyhost Copilot telemetry terms</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -361,11 +361,11 @@
             <ul class="menu list-unstyled">
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">About HostGate Copilot telemetry</a>
+                <a href="#" class="menu-link">About Flyhost Copilot telemetry</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
-                <a href="#" class="menu-link">HostGate Copilot telemetry terms</a>
+                <a href="#" class="menu-link">Flyhost Copilot telemetry terms</a>
               </li>
               <!-- menu-item -->
               <li class="menu-item">
@@ -384,7 +384,7 @@
         <!-- para-1 -->
         <p class="para-1">We’ve updated Section 14 (Cancellations and Refunds), effective August 5, 2021, to clarify that purchases of certain add-on products such as SiteLock are non-refundable. On 6/17/2021, we revised Section 15 (Resource Usage) to clarify our policy on resource usage and Section 24 (WordPress Plugins) to include new terms applicable to users of WordPress Plugins. Please read the terms below.</p>
         <!-- para-1 -->
-        <p class="para-1">These Terms of Service (the "Agreement") are an agreement between HostGate.com, LLC ("HostGate", "us", "our", or the “Company”) and you ("User" or "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the products and services made available by HostGate and of the HostGate.com website (collectively, the "Services"). By using the Services, you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the Services.</p>
+        <p class="para-1">These Terms of Service (the "Agreement") are an agreement between Flyhost.com, LLC ("Flyhost", "us", "our", or the “Company”) and you ("User" or "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the products and services made available by Flyhost and of the Flyhost.com website (collectively, the "Services"). By using the Services, you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the Services.</p>
 
         <!-- Additional Policies and Agreements -->
         <section>
@@ -423,13 +423,13 @@
               </ul>
             </li>
             <!-- list-item -->
-            <li class="list-item">It is your responsibility to provide accurate, current, and complete information on the registration forms, including an email address that is different from the domain you are signing up under. If there is ever an abuse issue or we need to contact you, we will use the primary email address we have on file. It is your responsibility to ensure that the contact information for your account, including any domain accounts is accurate, correct and complete at all times. HostGate is not responsible for any lapse in the Services, including without limitation, any lapsed domain registrations due to outdated contact information being associated with the domain. If you need to verify or change your contact information, you may utilize the <a href="#" class="list-link">HostGate Billing and Support Portal</a> to update your contact information. Providing false contact information of any kind may result in the termination of your account. In dedicated server purchases or certain other cases, you may be required to provide government issued identification and possibly a scan of the credit card used for verification purposes. Failure to provide the information requested may result in your order being denied.</li>
+            <li class="list-item">It is your responsibility to provide accurate, current, and complete information on the registration forms, including an email address that is different from the domain you are signing up under. If there is ever an abuse issue or we need to contact you, we will use the primary email address we have on file. It is your responsibility to ensure that the contact information for your account, including any domain accounts is accurate, correct and complete at all times. Flyhost is not responsible for any lapse in the Services, including without limitation, any lapsed domain registrations due to outdated contact information being associated with the domain. If you need to verify or change your contact information, you may utilize the <a href="#" class="list-link">Flyhost Billing and Support Portal</a> to update your contact information. Providing false contact information of any kind may result in the termination of your account. In dedicated server purchases or certain other cases, you may be required to provide government issued identification and possibly a scan of the credit card used for verification purposes. Failure to provide the information requested may result in your order being denied.</li>
             <!-- list-item -->
             <li class="list-item">You agree to be fully responsible for all use of your account and for any actions that take place through your account. It is your responsibility to maintain the confidentiality of your password and other information related to the security of your account.</li>
             <!-- list-item -->
             <li class="list-item">Any dedicated IP order in addition to those provided with a hosting package may be subject to IP justification. IP justification practices are subject to change to remain in compliance with the policies of the American Registry for Internet Numbers (ARIN). We reserve the right to deny any dedicated IP request based on insufficient justification or current IP utilization.</li>
             <!-- list-item -->
-            <li class="list-item">The Service and any data you provide to HostGate is hosted in the United States (U.S.) unless otherwise provided. If you access the Service from outside of the U.S., you are voluntarily transferring information (potentially including personally-identifiable information) and content to the U.S. and you agreeing that our collection, use, storage and sharing of your information and content is subject to the laws of the U.S., and not necessarily of the jurisdiction in which you are located.</li>
+            <li class="list-item">The Service and any data you provide to Flyhost is hosted in the United States (U.S.) unless otherwise provided. If you access the Service from outside of the U.S., you are voluntarily transferring information (potentially including personally-identifiable information) and content to the U.S. and you agreeing that our collection, use, storage and sharing of your information and content is subject to the laws of the U.S., and not necessarily of the jurisdiction in which you are located.</li>
           </ul>
         </section>
 
@@ -438,21 +438,21 @@
           <!-- title-2 -->
           <h2 class="title-2" id="transfers-section">3. Transfers</h2>
           <!-- para-1 -->
-          <p class="para-1">Our Transfers Team will make every effort to help you move your website to us. Transfers are provided as a courtesy service. We do not make any guarantees regarding the availability, possibility, or time required to complete an account transfer. Each hosting company is configured differently, and some hosting platforms save data in an incompatible or proprietary format, which may make it extremely difficult, if not impossible, to migrate some or all account data. In some cases we may not be able to assist you in a transfer of data from an old host. The free transfer service is available for thirty (30) days from your sign up date. Transfers outside of the thirty (30) day period will incur a charge; please contact a member of our Transfers department to receive a price quote. In no event shall HostGate be held liable for any lost or missing data or files resulting from a transfer to or from HostGate. You are solely responsible for backing up your data in all circumstances.</p>
+          <p class="para-1">Our Transfers Team will make every effort to help you move your website to us. Transfers are provided as a courtesy service. We do not make any guarantees regarding the availability, possibility, or time required to complete an account transfer. Each hosting company is configured differently, and some hosting platforms save data in an incompatible or proprietary format, which may make it extremely difficult, if not impossible, to migrate some or all account data. In some cases we may not be able to assist you in a transfer of data from an old host. The free transfer service is available for thirty (30) days from your sign up date. Transfers outside of the thirty (30) day period will incur a charge; please contact a member of our Transfers department to receive a price quote. In no event shall Flyhost be held liable for any lost or missing data or files resulting from a transfer to or from Flyhost. You are solely responsible for backing up your data in all circumstances.</p>
         </section>
 
-        <!-- HostGate Content -->
+        <!-- Flyhost Content -->
         <section>
           <!-- title-2 -->
-          <h2 class="title-2" id="HostGate-content-section">4. HostGate Content</h2>
+          <h2 class="title-2" id="Flyhost-content-section">4. Flyhost Content</h2>
           <!-- list-level-i -->
           <ul class="list-level-i">
             <!-- list-item -->
-            <li class="list-item">Except for User Content (as defined below), all content made available through the Services, including images made available through website builder tools provided by HostGate (the “Licensed Images”), designs, templates, text, graphics, images, video, information, software, audio and other files, and their selection and arrangement, and all software used to provide the Services (collectively with the Licensed Images, "HostGate Content"), are the property of HostGate or its licensors. No HostGate Content may not be modified, copied, distributed, framed, reproduced, republished, downloaded, scraped, displayed, posted, transmitted, sold or exploited for any purpose in any form or by any means, in whole or in part, other than as expressly permitted in this Agreement. You may not, directly or indirectly, reverse engineer, decompile, disassemble, or otherwise attempt to derive source code or other trade secrets from any HostGate Content.</li>
+            <li class="list-item">Except for User Content (as defined below), all content made available through the Services, including images made available through website builder tools provided by Flyhost (the “Licensed Images”), designs, templates, text, graphics, images, video, information, software, audio and other files, and their selection and arrangement, and all software used to provide the Services (collectively with the Licensed Images, "Flyhost Content"), are the property of Flyhost or its licensors. No Flyhost Content may not be modified, copied, distributed, framed, reproduced, republished, downloaded, scraped, displayed, posted, transmitted, sold or exploited for any purpose in any form or by any means, in whole or in part, other than as expressly permitted in this Agreement. You may not, directly or indirectly, reverse engineer, decompile, disassemble, or otherwise attempt to derive source code or other trade secrets from any Flyhost Content.</li>
             <!-- list-item -->
             <li class="list-item">To the extent applicable, you are granted a limited, revocable, non-sublicensable, license to use the Licensed Images solely in connection with the Services. You are prohibited from using any Licensed Images: (i) with pornographic, defamatory, or unlawful content or in such a manner that infringes upon any third party's trademark or intellectual property rights; (ii) as a trademark, service mark, or logo; and (iii) portraying any person depicted therein (a "Model") in a way that a reasonable person would find offensive, including but not limited to depicting a Model: (a) in connection with pornography, "adult videos", adult entertainment venues, escort services, dating services, or the like; (b) in connection with the advertisement or promotion of tobacco products; (c) as endorsing a political party, candidate, elected official, or opinion; (d) as suffering from, or medicating for, a physical or mental ailment; or (e) engaging in immoral or criminal activities.</li>
             <!-- list-item -->
-            <li class="list-item">Any use of HostGate Content, other than as specifically authorized herein, is prohibited and will automatically terminate your rights to use the Services and any HostGate Content. All rights to use HostGate Content that are not expressly granted in this Agreement are reserved by HostGate and HostGate's licensors.</li>
+            <li class="list-item">Any use of Flyhost Content, other than as specifically authorized herein, is prohibited and will automatically terminate your rights to use the Services and any Flyhost Content. All rights to use Flyhost Content that are not expressly granted in this Agreement are reserved by Flyhost and Flyhost's licensors.</li>
           </ul>
         </section>
 
@@ -463,9 +463,9 @@
           <!-- list-level-i -->
           <ul class="list-level-i">
             <!-- list-item -->
-            <li class="list-item">You may be able to upload, store, publish, display and distribute information, text, photos, videos, emails, and other content on or through the Services (collectively, "User Content"). User Content includes any content posted by you or by users of any of your websites hosted through the Services ("User Websites"). You are solely responsible for any and all User Content and any transactions or other activities conducted on or through User Websites. By posting or distributing User Content on or through the Services, you represent and warrant to HostGate that (i) you have all the necessary rights to post or distribute such User Content, and (ii) your posting or distribution of such User Content does not infringe or violate the rights of any third party.<br><br>Solely for purposes of providing the Services, you hereby grant to HostGate a non-exclusive, royalty-free, worldwide right and license to: (i) use, reproduce, publicly perform, publicly display, modify, translate, excerpt (in whole or in part), publish and distribute User Content; and (ii) make archival or back-up copies of User Content and User Websites. Except for the rights expressly granted herein, HostGate does not acquire any right, title or interest in or to the User Content, all of which shall remain solely with you.</li>
+            <li class="list-item">You may be able to upload, store, publish, display and distribute information, text, photos, videos, emails, and other content on or through the Services (collectively, "User Content"). User Content includes any content posted by you or by users of any of your websites hosted through the Services ("User Websites"). You are solely responsible for any and all User Content and any transactions or other activities conducted on or through User Websites. By posting or distributing User Content on or through the Services, you represent and warrant to Flyhost that (i) you have all the necessary rights to post or distribute such User Content, and (ii) your posting or distribution of such User Content does not infringe or violate the rights of any third party.<br><br>Solely for purposes of providing the Services, you hereby grant to Flyhost a non-exclusive, royalty-free, worldwide right and license to: (i) use, reproduce, publicly perform, publicly display, modify, translate, excerpt (in whole or in part), publish and distribute User Content; and (ii) make archival or back-up copies of User Content and User Websites. Except for the rights expressly granted herein, Flyhost does not acquire any right, title or interest in or to the User Content, all of which shall remain solely with you.</li>
             <!-- list-item -->
-            <li class="list-item">HostGate exercises no control over, and accepts no responsibility for, User Content or the content of any information passing through HostGate's computers, network hubs and points of presence or the Internet. HostGate does not monitor User Content. However, you acknowledge and agree that HostGate may, but is not obligated to, immediately take any corrective action in HostGate's sole discretion, including without limitation removal of all or a portion of the User Content or User Websites, and suspend or terminate any and all Services without refund if you violate the terms of this Agreement. You hereby agree that HostGate shall have no liability due to any corrective action that HostGate may take.</li>
+            <li class="list-item">Flyhost exercises no control over, and accepts no responsibility for, User Content or the content of any information passing through Flyhost's computers, network hubs and points of presence or the Internet. Flyhost does not monitor User Content. However, you acknowledge and agree that Flyhost may, but is not obligated to, immediately take any corrective action in Flyhost's sole discretion, including without limitation removal of all or a portion of the User Content or User Websites, and suspend or terminate any and all Services without refund if you violate the terms of this Agreement. You hereby agree that Flyhost shall have no liability due to any corrective action that Flyhost may take.</li>
           </ul>
         </section>
 
