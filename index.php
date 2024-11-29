@@ -246,21 +246,21 @@
           <!-- col -->
           <div class="col-xl-2 col-lg-3 col-md-4 col-6 mb-xl-0 mb-1">
             <!-- tab -->
-            <div class="tab active" data-filter="top-features">Dedicated Hosting</div>
+          <div class="tab active" data-filter="top-features">Shared Hosting</div>
           </div>
           <!-- col -->
-          <div class="col-xl-2 col-lg-3 col-md-4 col-6 mb-xl-0 mb-1">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 mb-xl-0 mb-1">
             <!-- tab -->
-            <div class="tab tr-hide" data-filter="cpanel">VPS Hosting</div>
+            <div class="tab tr-hide" data-filter="cpanel"><a herf='shared.php'>Cloud Hosting </a></div>
           </div>
           <!-- col -->
           <div class="col-xl-2 col-lg-3 col-md-4 col-6">
             <!-- tab -->
-            <div class="tab" data-filter="email">Shared Hosting</div>
+            <div class="tab" data-filter="email">DMCA Ignored </div>
           </div>
           <!-- col -->
           <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-            <div class="tab" data-filter="domain">Cloud Hosting</div>
+            <div class="tab" data-filter="domain">Wordpress Hosting</div>
             <!-- tab -->
           </div>
         </div>
@@ -293,8 +293,8 @@
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
               <!-- plan-price -->
-              <div class="plan-price">$2.45</div>
-              <div class="plan-price-sub">Normally $9.99 - 12/mo term</div>
+              <div class="plan-price">₹20</div>
+              <div class="plan-price-sub">Normally ₹45 Monthly </div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -372,8 +372,8 @@
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
               <!-- plan-price -->
-              <div class="plan-price">$5.45</div>
-              <div class="plan-price-sub">Normally $13.99 - 12/mo term</div>
+              <div class="plan-price">₹49</div>
+              <div class="plan-price-sub">Normally ₹99 - 12/mo term</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -451,8 +451,8 @@
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
               <!-- plan-price -->
-              <div class="plan-price">$13.45</div>
-              <div class="plan-price-sub">Normally $17.99 - 12/mo term</div>
+              <div class="plan-price">₹67</div>
+              <div class="plan-price-sub">Normally ₹149 Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -692,7 +692,7 @@
                   <!-- table-title-4 -->
                   <span class="table-title-4">As low as</span>
                   <!-- table-title-1 -->
-                  <span class="table-title-1"><span class="coin">$</span>2.95<span class="sm-text">/mo</span></span>
+                  <span class="table-title-1"><span class="coin">₹</span>20<span class="sm-text">/mo</span></span>
                 </div>
                 <!-- btn -->
                 <a href="shared.php" class="theme-btn --fill-primary">Configure Your Server </a>
@@ -989,7 +989,7 @@
         <!-- line -->
         <div class="line d-flex align-items-center justify-content-start">
           <img src="assets/images/icons/checked-2.png" class="icon mr--sm-2 img-fluid" alt="Check">
-          <span class="text">Backups monthly</span>
+          <span class="text">Daily Backups</span>
         </div>
         <!-- line -->
         <div class="line d-flex align-items-center justify-content-start">

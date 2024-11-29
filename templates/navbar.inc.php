@@ -43,7 +43,7 @@
       <div class="options d-md-flex d-none align-items-center justify-content-end ml-auto">
         <!-- c-link -->
         <a href="domains.php" class="c-link">
-          <img src="https://inregistrar.com/in-registrar.jpg" class='icon' alt="icon">
+          <img src="assets/images/logo/in-registrar.jpg" class='icon' alt="icon">
           
         </a>
         <!-- buttons -->
@@ -116,9 +116,10 @@
             <!-- group-title -->
             <li class="group-title">Websites</li>
             <!-- dm-link -->
-            <li><a href="shared.php" class="dm-link st-new" data-st="NEW">Shared hosting</a></li>
-            <li><a href="cloud-hosting.php" class="dm-link st-new" data-st="NEW">Cloud hosting</a></li>
+            <li><a href="shared.php" class="dm-link" >Shared hosting</a></li>
+            <li><a href="cloud-hosting.php" class="dm-link" >Cloud hosting</a></li>
              <li><a href="dmca-ignore.php" class="dm-link st-new" data-st="NEW">DMCA ignored hosting</a></li>
+                <li><a href="reseller.php" class="dm-link " >Reseller hosting</a></li>
             <!-- group-title -->
             <li class="group-title">CMS</li>
             <!-- dm-link -->
