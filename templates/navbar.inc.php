@@ -116,24 +116,24 @@
             <!-- group-title -->
             <li class="group-title">Websites</li>
             <!-- dm-link -->
-            <li><a href="ssl.php" class="dm-link st-new" data-st="NEW">Shared hosting</a></li>
-            <li><a href="website-security.php" class="dm-link st-new" data-st="NEW">Cloud hosting</a></li>
+            <li><a href="shared.php" class="dm-link st-new" data-st="NEW">Shared hosting</a></li>
+            <li><a href="cloud-hosting.php" class="dm-link st-new" data-st="NEW">Cloud hosting</a></li>
+             <li><a href="dmca-ignore.php" class="dm-link st-new" data-st="NEW">DMCA ignored hosting</a></li>
             <!-- group-title -->
             <li class="group-title">CMS</li>
             <!-- dm-link -->
             <li><a href="vps.php" class="dm-link">Wordpress hosting</a></li>
             <!-- dm-link -->
-            <li><a href="shared.php" class="dm-link">Whmcs hosting</a></li>
+           
             <!-- dm-link -->
-            <li><a href="dedicated.php" class="dm-link">Magento hosting</a></li>
-            <!-- dm-link -->
-            <li><a href="domains.php" class="dm-link">Domains</a></li>
+          
+            
           </ul>
         </div>
        
         <!-- link -->
         <div class="link">
-          <a href="#">Windows VPS Hosting</a>
+         <a href="domains.php" class="dm-link">Domains</a>
         </div>
         <!-- link -->
         <div class="link">
