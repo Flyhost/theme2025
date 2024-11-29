@@ -37,7 +37,7 @@
       </div>
       <!-- brand -->
       <a href="/" class="brand d-flex align-items-center">
-        <img src="assets/images/logo/logo-black.svg" class="img-fluid" alt="HostGate">
+        <img src="assets/images/logo/logo-black.svg" class="img-fluid" alt="Flyhost">
       </a>
       <!-- options -->
       <div class="options d-md-flex d-none align-items-center justify-content-end ml-auto">
@@ -77,7 +77,7 @@
             <!-- uddm-link-parent -->
             <li class="uddm-link-parent">
               <div class="title-2">New Customer</div>
-              <p class="para-2">New to HostGate? Create an account to get started today.</p>
+              <p class="para-2">New to Flyhost? Create an account to get started today.</p>
               <a href="register.php" class="uddm-link">Create an account</a>
             </li>
           </ul>
