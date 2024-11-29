@@ -137,7 +137,7 @@
                   <!-- price -->
                   <div class="price mb-1">
                     <p class="text">Starting at</p>
-                    <p class="text">$4.99</p>
+                    <p class="text">₹1199</p>
                   </div>
                   <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon">
                     <img src="assets/images/icons/right-arrow-w.png" class="dir-reflect img-fluid" alt="Arrow">
@@ -153,7 +153,7 @@
                   <!-- price -->
                   <div class="price mb-1">
                     <p class="text">Starting at</p>
-                    <p class="text">$3.99</p>
+                    <p class="text">₹950</p>
                   </div>
                   <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon">
                     <img src="assets/images/icons/right-arrow-w.png" class="dir-reflect img-fluid" alt="Arrow">
@@ -169,7 +169,7 @@
                   <!-- price -->
                   <div class="price mb-1">
                     <p class="text">Starting at</p>
-                    <p class="text">$3.59</p>
+                    <p class="text">₹1670</p>
                   </div>
                   <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon">
                     <img src="assets/images/icons/right-arrow-w.png" class="dir-reflect img-fluid" alt="Arrow">
@@ -181,11 +181,11 @@
                 <!-- box -->
                 <div class="box position-relative text-center">
                   <!-- box-title -->
-                  <h3 class="box-title en-pri-font"><span>.</span>Shop</h3>
+                  <h3 class="box-title en-pri-font"><span>.</span>in</h3>
                   <!-- price -->
                   <div class="price mb-1">
                     <p class="text">Starting at</p>
-                    <p class="text">$3.89</p>
+                    <p class="text">₹449</p>
                   </div>
                   <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon">
                     <img src="assets/images/icons/right-arrow-w.png" class="dir-reflect img-fluid" alt="Arrow">
@@ -197,11 +197,11 @@
                 <!-- box -->
                 <div class="box position-relative text-center">
                   <!-- box-title -->
-                  <h3 class="box-title en-pri-font"><span>.</span>Vip</h3>
+                  <h3 class="box-title en-pri-font"><span>.</span>site</h3>
                   <!-- price -->
                   <div class="price mb-1">
                     <p class="text">Starting at</p>
-                    <p class="text">$3.99</p>
+                    <p class="text">₹99</p>
                   </div>
                   <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon">
                     <img src="assets/images/icons/right-arrow-w.png" class="dir-reflect img-fluid" alt="Arrow">
@@ -213,11 +213,11 @@
                 <!-- box -->
                 <div class="box position-relative text-center">
                   <!-- box-title -->
-                  <h3 class="box-title en-pri-font"><span>.</span>Online</h3>
+                  <h3 class="box-title en-pri-font"><span>.</span>fun</h3>
                   <!-- price -->
                   <div class="price mb-1">
                     <p class="text">Starting at</p>
-                    <p class="text">$2.69</p>
+                    <p class="text">₹99</p>
                   </div>
                   <a href="#" class="theme-btn --fill-primary --circle-btn --has-icon">
                     <img src="assets/images/icons/right-arrow-w.png" class="dir-reflect img-fluid" alt="Arrow">
