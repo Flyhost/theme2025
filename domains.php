@@ -79,14 +79,14 @@
             <!-- box-title -->
             <div class="box-title d-flex align-items-center mb--sm-1">
               <span class="dot mr--sm-1"></span>
-              <span class="title">com</span>
+              <span class="title">in</span>
             </div>
             <!-- box-text -->
             <p class="box-text">Build trust with the best-know domain names.</p>
             <!-- price -->
             <div class="price mt-3">
-              <span class="currency">$</span>
-              <span class="num">8.99</span>
+              <span class="currency">₹</span>
+              <span class="num">449</span>
               <span class="duration">/year</span>
             </div>
             <!-- link -->
@@ -100,14 +100,14 @@
             <!-- box-title -->
             <div class="box-title d-flex align-items-center mb--sm-1">
               <span class="dot mr--sm-1"></span>
-              <span class="title">cloud</span>
+              <span class="title">site</span>
             </div>
             <!-- box-text -->
             <p class="box-text">Showcase your technology project with .cloud.</p>
             <!-- price -->
             <div class="price mt-3">
-              <span class="currency">$</span>
-              <span class="num">11.99</span>
+              <span class="currency">₹</span>
+              <span class="num">99</span>
               <span class="duration">/year</span>
             </div>
             <!-- link -->
@@ -121,14 +121,14 @@
             <!-- box-title -->
             <div class="box-title d-flex align-items-center mb--sm-1">
               <span class="dot mr--sm-1"></span>
-              <span class="title">online</span>
+              <span class="title">fun</span>
             </div>
             <!-- box-text -->
             <p class="box-text">It’s a great alternative to .com – generic and universal.</p>
             <!-- price -->
             <div class="price mt-3">
-              <span class="currency">$</span>
-              <span class="num">7.99</span>
+              <span class="currency">₹</span>
+              <span class="num">99</span>
               <span class="duration">/year</span>
             </div>
             <!-- link -->
@@ -142,14 +142,14 @@
             <!-- box-title -->
             <div class="box-title d-flex align-items-center mb--sm-1">
               <span class="dot mr--sm-1"></span>
-              <span class="title">shop</span>
+              <span class="title">app</span>
             </div>
             <!-- box-text -->
             <p class="box-text">Build trust with the best-know domain names.</p>
             <!-- price -->
             <div class="price mt-3">
-              <span class="currency">$</span>
-              <span class="num">14.99</span>
+              <span class="currency">₹</span>
+              <span class="num">1670</span>
               <span class="duration">/year</span>
             </div>
             <!-- link -->
@@ -169,8 +169,8 @@
             <p class="box-text">Demonstrate your proficiency through a .net domain.</p>
             <!-- price -->
             <div class="price mt-3">
-              <span class="currency">$</span>
-              <span class="num">15.99</span>
+              <span class="currency">₹</span>
+              <span class="num">950</span>
               <span class="duration">/year</span>
             </div>
             <!-- link -->
@@ -184,14 +184,14 @@
             <!-- box-title -->
             <div class="box-title d-flex align-items-center mb--sm-1">
               <span class="dot mr--sm-1"></span>
-              <span class="title">store</span>
+              <span class="title">net.in</span>
             </div>
             <!-- box-text -->
             <p class="box-text">Build trust with the best-know domain names.</p>
             <!-- price -->
             <div class="price mt-3">
-              <span class="currency">$</span>
-              <span class="num">8.99</span>
+              <span class="currency">₹</span>
+              <span class="num">349</span>
               <span class="duration">/year</span>
             </div>
             <!-- link -->
@@ -205,14 +205,14 @@
             <!-- box-title -->
             <div class="box-title d-flex align-items-center mb--sm-1">
               <span class="dot mr--sm-1"></span>
-              <span class="title">pro</span>
+              <span class="title">com</span>
             </div>
             <!-- box-text -->
             <p class="box-text">Demonstrate your proficiency through a .pro domain.</p>
             <!-- price -->
             <div class="price mt-3">
-              <span class="currency">$</span>
-              <span class="num">11.99</span>
+              <span class="currency">₹</span>
+              <span class="num">1199</span>
               <span class="duration">/year</span>
             </div>
             <!-- link -->
@@ -226,14 +226,14 @@
             <!-- box-title -->
             <div class="box-title d-flex align-items-center mb--sm-1">
               <span class="dot mr--sm-1"></span>
-              <span class="title">info</span>
+              <span class="title">xyz</span>
             </div>
             <!-- box-text -->
             <p class="box-text">Create an informational website with .info.</p>
             <!-- price -->
             <div class="price mt-3">
-              <span class="currency">$</span>
-              <span class="num">10.99</span>
+              <span class="currency">₹</span>
+              <span class="num">199</span>
               <span class="duration">/year</span>
             </div>
             <!-- link -->
