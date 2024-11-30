@@ -11,7 +11,7 @@
   <meta name="keywords" content="shared hosting plans, affordable hosting, performance hosting, reliable hosting, Flyhost">
   <meta name="language" content="en">
   <!-- :: Title :: -->
-  <title>Affordable Shared Hosting Plans | Flyhost</title>
+  <title>Affordable DMCA Ignored Hosting Plans | Flyhost</title>
   <!-- :: Favicon :: -->
   <link rel="shortcut icon" href="assets/images/logo/favicon.ico" type="image/x-icon">
   <!-- :: CSS Files :: -->
@@ -35,11 +35,11 @@
           <!-- content -->
           <div class="content position-relative">
             <!-- sub-title -->
-            <h3 class="sub-title">Shared Hosting for high-traffic sites.</h3>
+            <h3 class="sub-title">DMCA Protected Plans.</h3>
             <!-- title -->
             <h1 class="title">Building your own<br>website just got <b class="pri-color">easier</b>.</h1>
             <!-- para -->
-            <p class="para">With Flyhost Shared Hosting, whether you use the Website Builder or traditional WordPress, you get all the features, tools, and guidance you need to build and launch truly impressive WordPress websites.</p>
+            <p class="para">With Flyhost DMCA Ignored Hosting, whether you use the Website Builder or traditional WordPress, you get all the features, tools, and guidance you need to build and launch truly impressive WordPress websites.</p>
             <!-- links -->
             <div class="links d-flex align-items-center justify-content-center">
               <a href="#" class="theme-btn --fill-primary mr-1">Choose a Plan</a>
@@ -70,8 +70,8 @@
             <h6 style=color:#1062fe;> Save 56%</h6>
           
               <!-- plan-price -->
-              <div class="plan-price">₹20</div>
-              <div class="plan-price-sub">Normally ₹45 Monthly</div>
+              <div class="plan-price">₹149</div>
+              <div class="plan-price-sub">Normally ₹149 Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -141,8 +141,8 @@
               <p class="plan-sub">When you need just one site.</p>
               <h6 style=color:#1062fe;> Save 51%</h6>
               <!-- plan-price -->
-              <div class="plan-price">₹49</div>
-              <div class="plan-price-sub">Normally ₹99 Monthly</div>
+              <div class="plan-price">₹249</div>
+              <div class="plan-price-sub">Normally ₹249 Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -214,8 +214,8 @@
               <p class="plan-sub">When you need just one site.</p>
               <h6 style=color:#1062fe;> Save 56%</h6>
               <!-- plan-price -->
-              <div class="plan-price">₹67</div>
-              <div class="plan-price-sub">Normally ₹149 </div>
+              <div class="plan-price">₹499</div>
+              <div class="plan-price-sub">Normally ₹499 </div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -275,86 +275,7 @@
               </div>
             </div>
           </div>
-          <!-- col -->
-          <div class="col-xl-3 col-md-6">
-            <!-- plan -->
-            <div class="plan">
-              <!-- plan-title -->
-              <h4 class="plan-title">Enterprises Plan</h4>
-              <!-- plan-sub -->
-              <p class="plan-sub">When you need just one site.</p>
-              <h6 style=color:#1062fe;> Save 52%</h6>
-              <!-- plan-price -->
-              <div class="plan-price">₹120</div>
-              <div class="plan-price-sub">Normally ₹249 Monthly</div>
-              <!-- hr -->
-              <hr class="my-2">
-              <!-- plan-link -->
-              <a href="#" class="theme-btn --fill-primary --has-icon w-100">
-                   <h4>Buy Now &emsp;</h4>
-                <img src="assets/images/icons/shopping-cart-add-w.png" class="icon mr--sm-2 img-fluid" alt="Buy Now">
-              </a>
-              <!-- fea-sec -->
-              <div class="fea-sec">
-                <!-- fea-title -->
-                <h5 class="fea-title">Top Features</h5>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Unlimited Websites
-                  <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
-                </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Unlimited SSD Storage
-                  <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
-                </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Custom Themes
-                  <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
-                </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">24/7 Customer Support
-                  <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span>
-                </div>
-              </div>
-              <!-- fea-sec -->
-              <div class="fea-sec">
-                <!-- fea-title -->
-                <h5 class="fea-title">Website Builder Available</h5>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">WordPress Integration
-                </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Drag and Drop Functionality
-                </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">AI-Driven Templates
-                </div>
-              </div>
-              <!-- fea-sec -->
-              <div class="fea-sec">
-                <!-- fea-title -->
-                <h5 class="fea-title">Also Includes</h5>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free Domain - 1 year
-                  <span class="float-box" data-text="One free with purchase of a new 12-, 24- or 36-month plan. Plus ICANN fee of 2.84 USD per domain name per year. You must add the domain name into your cart before purchase, and you must select a domain term length equal to or less than the term length of your plan to qualify for the free domain offer. If you purchase a domain name for a term longer than the term of the plan, you will be charged for the additional registration term at the then-current rate. Cannot be used in conjunction with any other offer, sale, discount or promotion. Free domain offer applies only to the initial purchase term. After the initial purchase term, domains purchased through this offer will renew at the then-current renewal price."></span>
-                </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free CDN Included
-                  <span class="float-box" data-text="Get faster page loads and better visitor experience with nearby, state-of-the-art data centers in North America, Europe or Asia-Pacific."></span>
-                </div>
-                <!-- item -->
-                <div class="item" data-gap-x="10px">
-                  <img src="assets/images/icons/checked.png" class="img-fluid" alt="Icon">Free SSL Certificate
-                  <span class="float-box" data-text="Linking your site to your domain name has never been easier with Flyhost registered domain."></span>
-                </div>
+          
               </div>
             </div>
           </div>

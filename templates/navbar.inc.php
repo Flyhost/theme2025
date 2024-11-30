@@ -131,15 +131,26 @@
             
           </ul>
         </div>
-       
+          <div class="link has-dropdown-menu">
+          <a href="#">Server</a>
+          <!-- dropdown-menu -->
+          <ul class="dropdown-menu list-unstyled">
+            <!-- group-title -->
+            <li class="group-title">KVM Based</li>
+            <!-- dm-link -->
+            <li><a href="vps.php" class="dm-link" >VPS</a></li>
+            <li><a href="dedicated.php" class="dm-link" >Dedicated Servers</a></li>
+           
+            <!-- dm-link -->
+          
+            
+          </ul>
+        </div>
         <!-- link -->
         <div class="link">
          <a href="domains.php" class="dm-link">Domains</a>
         </div>
         <!-- link -->
-        <div class="link">
-          <a href="#">Features</a>
-        </div>
         <!-- link -->
         <div class="link">
           <a href="#">Support</a>
