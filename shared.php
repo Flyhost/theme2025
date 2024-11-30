@@ -76,6 +76,7 @@
               <hr class="my-2">
               <!-- plan-link -->
               <a href="#" class="theme-btn --fill-primary --has-icon w-100">
+                   <h4>Buy Now &emsp;</h4>
                 <img src="assets/images/icons/shopping-cart-add-w.png" class="icon mr--sm-2 img-fluid" alt="Buy Now">
               </a>
               <!-- fea-sec -->
@@ -219,6 +220,7 @@
               <hr class="my-2">
               <!-- plan-link -->
               <a href="#" class="theme-btn --fill-primary --has-icon w-100">
+                   <h4>Buy Now &emsp;</h4>
                 <img src="assets/images/icons/shopping-cart-add-w.png" class="icon mr--sm-2 img-fluid" alt="Buy Now">
               </a>
               <!-- fea-sec -->
@@ -289,6 +291,7 @@
               <hr class="my-2">
               <!-- plan-link -->
               <a href="#" class="theme-btn --fill-primary --has-icon w-100">
+                   <h4>Buy Now &emsp;</h4>
                 <img src="assets/images/icons/shopping-cart-add-w.png" class="icon mr--sm-2 img-fluid" alt="Buy Now">
               </a>
               <!-- fea-sec -->
