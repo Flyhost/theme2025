@@ -154,7 +154,7 @@
             <li><a href="#">License Agreements</a></li>
           </ul>
           <!-- para-3 -->
-          <p class="para-3">Copyright © <span id="year"></span>, Flyhost Operating Company, LLC. All Rights Reserved. The Flyhost word mark is a registered trademark of Flyhost Operating Company,</p>
+          <p class="para-3">Copyright © <span id="year"></span>, Flyhost, LLC. All Rights Reserved. The Flyhost word mark is a registered trademark of Flyhost Operating Company,</p>
         </div>
         <!-- social-list -->
         <ul class="social-list list-unstyled d-flex align-items-center justify-content-lg-end justify-content-center ml-lg-auto mt-lg-0 mt-2">
@@ -168,10 +168,7 @@
       <div class="content d-lg-flex align-items-end flex-wrap">
         <!-- para-3 -->
         <p class="para-3">Use of this Site is subject to express terms of use.<br>By using this site, you signify that you agree to be bound by these <a href="terms.php">Universal Terms of Service</a>.</p>
-        <!-- sign -->
-        <div class="signature ml-auto mt-lg-0 mt-1">
-          <p class="para-3">Developed by <a href="https://bit.ly/niftytheme_In1">Nifty Theme</a></p>
-        </div>
+        
       </div>
     </div>
   </div>

@@ -37,13 +37,13 @@
       </div>
       <!-- brand -->
       <a href="/" class="brand d-flex align-items-center">
-        <img src="assets/images/logo/logo-black.svg" class="img-fluid" alt="HostGate">
+        <img src="assets/images/logo/logo-black.svg" class="img-fluid" alt="Flyhost">
       </a>
       <!-- options -->
       <div class="options d-md-flex d-none align-items-center justify-content-end ml-auto">
         <!-- c-link -->
         <a href="domains.php" class="c-link">
-          <img src="https://inregistrar.com/in-registrar.jpg" class='icon' alt="icon">
+          <img src="assets/images/logo/in-registrar.jpg" class='icon' alt="icon">
           
         </a>
         <!-- buttons -->
@@ -77,7 +77,7 @@
             <!-- uddm-link-parent -->
             <li class="uddm-link-parent">
               <div class="title-2">New Customer</div>
-              <p class="para-2">New to HostGate? Create an account to get started today.</p>
+              <p class="para-2">New to Flyhost? Create an account to get started today.</p>
               <a href="register.php" class="uddm-link">Create an account</a>
             </li>
           </ul>
@@ -116,29 +116,41 @@
             <!-- group-title -->
             <li class="group-title">Websites</li>
             <!-- dm-link -->
-            <li><a href="ssl.php" class="dm-link st-new" data-st="NEW">Shared hosting</a></li>
-            <li><a href="website-security.php" class="dm-link st-new" data-st="NEW">Cloud hosting</a></li>
+            <li><a href="shared.php" class="dm-link" >Shared hosting</a></li>
+            <li><a href="cloud-hosting.php" class="dm-link" >Cloud hosting</a></li>
+             <li><a href="dmca-ignore.php" class="dm-link st-new" data-st="NEW">DMCA ignored hosting</a></li>
+                <li><a href="reseller.php" class="dm-link " >Reseller hosting</a></li>
             <!-- group-title -->
             <li class="group-title">CMS</li>
             <!-- dm-link -->
             <li><a href="vps.php" class="dm-link">Wordpress hosting</a></li>
             <!-- dm-link -->
-            <li><a href="shared.php" class="dm-link">Whmcs hosting</a></li>
+           
             <!-- dm-link -->
-            <li><a href="dedicated.php" class="dm-link">Magento hosting</a></li>
-            <!-- dm-link -->
-            <li><a href="domains.php" class="dm-link">Domains</a></li>
+          
+            
           </ul>
         </div>
-       
-        <!-- link -->
-        <div class="link">
-          <a href="#">Windows VPS Hosting</a>
+          <div class="link has-dropdown-menu">
+          <a href="#">Server</a>
+          <!-- dropdown-menu -->
+          <ul class="dropdown-menu list-unstyled">
+            <!-- group-title -->
+            <li class="group-title">KVM Based</li>
+            <!-- dm-link -->
+            <li><a href="vps.php" class="dm-link" >VPS</a></li>
+            <li><a href="dedicated.php" class="dm-link" >Dedicated Servers</a></li>
+           
+            <!-- dm-link -->
+          
+            
+          </ul>
         </div>
         <!-- link -->
         <div class="link">
-          <a href="#">Features</a>
+         <a href="domains.php" class="dm-link">Domains</a>
         </div>
+        <!-- link -->
         <!-- link -->
         <div class="link">
           <a href="#">Support</a>
